@@ -8,4 +8,4 @@ If your api requests fail, you are welcome to use any url shortener api, or even
 
 Or you can return mock data without actually hitting an API.
 
-Email your finished github project to curtis@ringy.com and brad@ringy.com
+Email your finished github project or any questions you may have to curtis@ringy.com and brad@ringy.com
