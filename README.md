@@ -7,3 +7,5 @@ You can use [https://shrtco.de/docs/?ref=public-apis](https://shrtco.de/docs/?re
 If your api requests fail, you are welcome to use any url shortener api, or even a mock API such as [https://mockapi.io](https://mockapi.io)
 
 Or you can return mock data without actually hitting an API.
+
+Email your finished github project to curtis@ringy.com and brad@ringy.com
